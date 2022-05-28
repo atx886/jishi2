@@ -289,7 +289,8 @@ def ww(k):
 
 errs = []
 errph = []
-t = 0
+jn = max_a - 13
+t = jn
 jt = 0
 while t < max_a:
     try:
